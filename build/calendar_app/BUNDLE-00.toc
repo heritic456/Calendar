@@ -1,0 +1,3 @@
+([('calendar_app',
+   '/Users/nickmautner/CascadeProjects/CalendarApp/dist/calendar_app',
+   'EXECUTABLE')],)
